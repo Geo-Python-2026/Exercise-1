@@ -2,11 +2,11 @@
 
 In the "Taste of Python" lesson this week we have learned a few basic things in Python. Now you get your chance to demonstrate your skills.
 
-This exercise is inspired by Finland's regular ranking as one of the world's happiest countries. As the instructors of the Geo-Python course, we think we've found a better way to assess the individual happiness of people in Finland (particularly those taking this course!), and we're going to test our idea with you. In *five easy steps (or problems)* we'll be able to reveal your happiness based on two of life's most important happiness factors: Ice cream and sleep!
+This exercise is inspired by Finland's regular ranking as [one of the world's happiest countries](https://worldpopulationreview.com/country-rankings/happiest-countries-in-the-world). As the instructors of the Geo-Python course, we think we've found a better way to assess the individual happiness of people in Finland (particularly those taking this course!), and we're going to test our idea with you. In *five easy steps (or problems)* we'll be able to reveal your happiness based on two of life's most important happiness factors: Ice cream and sleep!
 
 ## Problem 0 - Filling out the pre-course survey
 
-Before you get started with the exercise, we ask that you **please fill out the Geo-Python/AutoGIS pre-course survey at https://elomake.helsinki.fi/lomakkeet/131060/lomake.html**. Your responses will help shape how we teach this autumn!
+Before you get started with the exercise, we ask that you **please fill out the Geo-Python/AutoGIS pre-course survey at <https://elomake.helsinki.fi/lomakkeet/141183/lomake.html>**. Your responses will help shape how we teach this autumn!
 
 ## Problem 1 - Creating your own Jupyter notebook
 
